@@ -1,4 +1,4 @@
-# Monitoramento de Som com Alerta e Display SSD1306
+# Detector de Poluição Sonora com Alerta e Display SSD1306
 
 Este projeto utiliza o microcontrolador Raspberry Pi Pico (BitDogLab) para monitorar níveis de som em um ambiente, com feedback visual e sonoro. O sistema usa um microfone para medir a intensidade sonora e exibe o valor em decibéis (dB) em um display SSD1306. Além disso, ele controla LEDs e um buzzer para alertar quando o som excede um limite predefinido.
 
